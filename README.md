@@ -1,77 +1,120 @@
-<!--
-  Kazim - GitHub profile README
-  Colors (from the profile picture): black 0D0D0D, gold E8A85C, tan C9A066
-
-  Setup
-  1. Create a PUBLIC repository named exactly like your GitHub username.
-  2. Put README.md and banner.svg in it (same folder).
-  3. Search this file for YOUR_ and replace those two values (LinkedIn and email).
--->
-
 <div align="center">
 
-<img src="./banner.svg" alt="Kazim, Computer Science student and future penetration tester" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,55:3B2A14,100:E5A35A&height=240&section=header&text=Kazim&fontSize=80&fontColor=F2B56B&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20%7C%20Penetration%20Testing%20%7C%20Red%20Team&descSize=20&descColor=D9D9D9&descAlignY=60" alt="Kazim - Cybersecurity and Penetration Testing" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=D4963A&center=true&vCenter=true&width=640&height=56&lines=Computer+Science+student+from+Iraq;Training+to+become+a+penetration+tester;Ranked+first+in+class.+Still+just+getting+started.;Learning+in+public%2C+one+lab+at+a+time" alt="Typing animation">
+<a href="https://github.com/USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=E5A35A&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+Student+%40+University+of+Diyala;Aspiring+Red+Team+%2F+Penetration+Tester;Learning+how+systems+break+to+learn+how+to+protect+them;C%2B%2B+%7C+Python+%7C+Linux+%7C+Networking;Building+real+skills+for+remote+work+worldwide" alt="Typing animation"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Country-Iraq-E5A35A?style=for-the-badge&labelColor=0D0D0D" alt="Iraq"/>
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-E5A35A?style=for-the-badge&logo=hackthebox&logoColor=E5A35A&labelColor=0D0D0D" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Daily_Driver-Fedora-E5A35A?style=for-the-badge&logo=fedora&logoColor=E5A35A&labelColor=0D0D0D" alt="Fedora"/>
+<img src="https://img.shields.io/badge/Goal-Remote_Work_2029-E5A35A?style=for-the-badge&labelColor=0D0D0D" alt="Goal"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:E5A35A,100:0D0D0D&height=2" width="100%" alt="divider"/>
 
 </div>
 
-## $ whoami
+<h2 align="center">⚡ About Me</h2>
 
-```console
-┌──(kazim㉿fedora)-[~]
-└─$ cat about.txt
-
-name       Kazim
-from       Iraq
-studying   Computer Science, 2nd year, University of Diyala
-focus      Cybersecurity and Penetration Testing (Red Team)
-strongest  C++ (placed first, with distinction)
-completed  CS50, CompTIA A+ (course)
-goal       Work remotely as a professional pentester with international teams
+```yaml
+name:        Kazim
+location:    Iraq
+studying:    Computer Science - University of Diyala (2nd year)
+highlights:  ranked 1st in my cohort (year 1) | C++ with distinction
+focus:       Cybersecurity & Penetration Testing (Red Team)
+daily_os:    Fedora Linux
+pentest_lab: Kali Linux (VirtualBox)
+learning:    Networking, Linux, C++, Python, technical English
+goal:        remote work with international clients by 2028-2029
 ```
 
-I finished my first year ranked first in my class. Now I'm building the skills behind the goal the slow, solid way: fundamentals first, then labs, then real projects. I learn by mixing theory with hands-on practice, and I keep my notes in Obsidian.
+<p align="center"><i>I study the attack to build the defense.</i></p>
 
-## $ cat now.txt
+<p align="center"><sub>أفهم الهجوم… لأبني الدفاع 🔐</sub></p>
 
-- **Networking fundamentals**, with hands-on labs in GNS3
-- **Linux command line**, with OverTheWire: Bandit
-- **TryHackMe**, Jr Penetration Tester path (free tier)
-- **University**, data structures, object-oriented programming, web programming
+<br/>
 
-## $ ls roadmap/
+<h2 align="center">🛠️ Tech Stack</h2>
 
-| When | Focus | Status |
-| :-- | :-- | :-- |
-| Oct 2026 to Jan 2027 | Networking fundamentals, Linux command line | 🟨 In progress |
-| Feb to May 2027 | Security fundamentals, Python, HTTP and Burp Suite basics | ⬛ Planned |
-| Summer 2027 | PortSwigger Web Security Academy, team mobile app (MVP) | ⬛ Planned |
-| Oct 2027 to May 2028 | Network pentesting, Windows and Active Directory, advanced web | ⬛ Planned |
-| Summer 2028 | eJPT or PNPT | ⬛ Planned |
-| Oct 2028 to 2029 | OSCP-level preparation, graduation project, job applications | ⬛ Planned |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,fedora,git,github,vscode,html,css,md,obsidian&theme=dark" alt="Tech stack"/>
+</p>
 
-Along the way: Python for automation, Git and GitHub, 3 to 5 real projects, and technical writing in English.
+<h3 align="center">Security tools I'm learning</h3>
 
-## $ which toolbox
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-0D0D0D?style=for-the-badge&logo=kalilinux&logoColor=E5A35A" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-0D0D0D?style=for-the-badge&logo=wireshark&logoColor=E5A35A" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-0D0D0D?style=for-the-badge&logo=burpsuite&logoColor=E5A35A" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Nmap-0D0D0D?style=for-the-badge&logoColor=E5A35A" alt="Nmap"/>
+  <img src="https://img.shields.io/badge/GNS3-0D0D0D?style=for-the-badge&logoColor=E5A35A" alt="GNS3"/>
+</p>
 
-**Code:** ![C++](https://img.shields.io/badge/C%2B%2B-strongest-E8A85C?style=flat-square&logo=cplusplus&logoColor=E8A85C&labelColor=0D0D0D) ![Python](https://img.shields.io/badge/Python-learning-E8A85C?style=flat-square&logo=python&logoColor=E8A85C&labelColor=0D0D0D) ![Git](https://img.shields.io/badge/Git-learning-E8A85C?style=flat-square&logo=git&logoColor=E8A85C&labelColor=0D0D0D)
+<br/>
 
-**Setup:** ![Fedora](https://img.shields.io/badge/Fedora-daily_driver-E8A85C?style=flat-square&logo=fedora&logoColor=E8A85C&labelColor=0D0D0D) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-pentest_VM-E8A85C?style=flat-square&logo=kalilinux&logoColor=E8A85C&labelColor=0D0D0D) ![VirtualBox](https://img.shields.io/badge/VirtualBox-lab_VMs-E8A85C?style=flat-square&logo=virtualbox&logoColor=E8A85C&labelColor=0D0D0D) ![VS Code](https://img.shields.io/badge/VS_Code-editor-E8A85C?style=flat-square&labelColor=0D0D0D) ![Obsidian](https://img.shields.io/badge/Obsidian-notes-E8A85C?style=flat-square&logo=obsidian&logoColor=E8A85C&labelColor=0D0D0D)
+<h2 align="center">🔭 Currently</h2>
 
-**Labs:** ![GNS3](https://img.shields.io/badge/GNS3-network_labs-E8A85C?style=flat-square&labelColor=0D0D0D) ![TryHackMe](https://img.shields.io/badge/TryHackMe-Jr_Pentester_path-E8A85C?style=flat-square&logo=tryhackme&logoColor=E8A85C&labelColor=0D0D0D) ![OverTheWire](https://img.shields.io/badge/OverTheWire-Bandit-E8A85C?style=flat-square&labelColor=0D0D0D) ![PortSwigger](https://img.shields.io/badge/PortSwigger-up_next-E8A85C?style=flat-square&logo=portswigger&logoColor=E8A85C&labelColor=0D0D0D)
+- 🌐 Networking fundamentals (OSI, TCP/IP, subnetting) with hands-on GNS3 labs
+- 🐧 Strengthening my Linux command line
+- 💻 C++ in depth: data structures and OOP
+- 📱 Planning a team mobile app (backend and database)
+- 🗣️ Improving my technical English every day
 
-## $ ./contact.sh
+<br/>
 
-<!-- Replace YOUR_LINKEDIN and YOUR_EMAIL. Delete a line if you don't need it. -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-E8A85C?style=for-the-badge&labelColor=0D0D0D)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Say_hello-E8A85C?style=for-the-badge&logo=gmail&logoColor=E8A85C&labelColor=0D0D0D)](mailto:YOUR_EMAIL)
-
-> **Ethics first.** I only test systems I own or have written permission to test: my own virtual machines, CTF platforms, and legal practice labs.
+<h2 align="center">🗺️ My Roadmap to 2029</h2>
 
 <div align="center">
 
-*Learn how things break, so you can help build them stronger.*
+| Phase | Focus | Status |
+|:-----:|:------|:------:|
+| **1** | Networking (Network+ topics) and Linux | 🔄 In progress |
+| **2** | Security+ topics, Python, HTTP and Burp basics | ⏳ Next |
+| **3** | Web and network pentesting: PortSwigger, HTB, IppSec | ⏳ Planned |
+| **4** | Windows / Active Directory, advanced web, eJPT or PNPT | 🎯 2028 |
+| **5** | OSCP-level prep, graduation project, international work | 🎯 2028-2029 |
+
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&bg_color=0D0D0D&title_color=E5A35A&icon_color=E5A35A&text_color=E8E8E8&border_color=3B2A14&border_radius=12&include_all_commits=true" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=6&bg_color=0D0D0D&title_color=E5A35A&text_color=E8E8E8&border_color=3B2A14&border_radius=12" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=USERNAME&background=0D0D0D&border=3B2A14&stroke=3B2A14&ring=E5A35A&fire=E5A35A&currStreakNum=FFFFFF&currStreakLabel=E5A35A&sideNums=FFFFFF&sideLabels=D9D9D9&dates=A0A0A0&border_radius=12" alt="GitHub streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0D0D0D&color=E5A35A&line=E5A35A&point=FFFFFF&area=true&area_color=E5A35A&hide_border=true" alt="Activity graph" width="100%"/>
+</p>
+
+<br/>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact_me-E5A35A?style=for-the-badge&logo=gmail&logoColor=0D0D0D&labelColor=0D0D0D" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-E5A35A?style=for-the-badge&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D" alt="LinkedIn"/>
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+views&color=E5A35A&style=for-the-badge&labelColor=0D0D0D" alt="Profile views"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5A35A,55:3B2A14,100:0D0D0D&height=140&section=footer" alt="footer" width="100%"/>
 
 </div>
